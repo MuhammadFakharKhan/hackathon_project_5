@@ -1,0 +1,19 @@
+{
+  "name": "milestone5upsl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.9.0"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "jspdf": "^2.5.2"
+  }
+}
